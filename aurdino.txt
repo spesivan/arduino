@@ -1,0 +1,23 @@
+Aurdino Uno
+Breadboard
+Buton
+Led
+Direnç
+Jumper
+HC-SR04 Arduino Ultrasonic Mesafe Sensörü
+MQ-7 - Karbonmonoksit Gaz Sensör Kartı 
+MQ-135 - Hava Kalitesi Ölçüm Modülü
+B500K Potansiyometre
+HW-504 Joyistick
+Buzzer
+10K Sürgülü Portansiyometre - Slide
+RC522 RFID NFC Kiti (13.56mhz)
+IC-229A Mikrofon Kapsülü 10x7mm
+Asair AM2320 Sıcaklık ve Nem Sensörü
+NodeMCU ESP8266 CH340
+6 pinli 0.95 Oled ekran (çalışmıyor)
+4 pinli 1.3 inç Oled ekran 
+
+    // 00-11-22-33e4-f5-d7-3f mavi anahtar
+    // 00-11-22-330a-66-26-2e beyaz kart
+    // 00-11-22-33d1-d3-58-42 spor salonu
